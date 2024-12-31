@@ -26,10 +26,6 @@ P.S. (Star it if you liked the concept,It gives me motivation to keep on working
 
 1. Clone the repository:
 
-  ```shell
-  git clone https://github.com/your-username/netflix-web-project.git
-  ```
-
 2. Open the `index.html` file in your web browser.
 
 3. You have to use your own TMDB_API_KEY wherever the placeholder is given. for streaming sources,refer 3rd party providers.
